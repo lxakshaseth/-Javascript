@@ -10,3 +10,5 @@ if (true) {
 }
 
 console.log("OUTER : ", a);
+
+function one
